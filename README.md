@@ -1,5 +1,4 @@
-# bankpulse-ai
-Early-warning analytics for bank financial health
+
 # BankPulse AI
 
 Early-warning analytics for bank financial health.
